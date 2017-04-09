@@ -8,6 +8,7 @@
 		"1337 Color Scheme",
 		"Alignment",
 		"Anaconda",
+		"ColorPick",
 		"Colorsublime",
 		"ConvertToUTF8",
 		"CSScomb",
@@ -19,6 +20,8 @@
 		"Git",
 		"JsFormat",
 		"Package Control",
-		"SideBarEnhancements"
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
 	]
 }
